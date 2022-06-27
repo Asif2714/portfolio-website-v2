@@ -1,0 +1,5 @@
+1. responsive navbar
+2. loading animation where necessary
+3. animate on scroll
+4. dynamic background
+5. bottom part having contact me form
